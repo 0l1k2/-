@@ -1,5 +1,8 @@
 # -
-写的第一个github项目，介绍一下csapp里面关于fork（）的运用与命令pstree -p把
+写的第一个github项目，介绍一下csapp里面关于fork（）的运用与命令pstree -p吧
+
+以下命令适用于linux学习：
+
 学习ps、pstree和kill等命令的使用方法。能通过ps命令查看进程号、可执行文件名（命令）、运行状态信息；能通过pstree查看系统进程树；能利用kill命令根据进程号（pid）杀死进程。
 
 "gcc 创建的代码名字 -o hello" 用于编译  "./hello &"用于执行（&表示后台执行，运行后会出现父进程pid）
