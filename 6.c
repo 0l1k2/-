@@ -19,7 +19,7 @@ void printHelp() {
 }
 
 void printXuehao() {
-    printf("2022214189\n");
+    printf("12345678\n");
 }
 
 int main() {
